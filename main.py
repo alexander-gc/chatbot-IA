@@ -78,18 +78,4 @@ else:
 
 
 
-"""
-    while option > 3:
-        print("Elige nuevamente una opción del 1 al 3")
-        option = int(input())
-        if option == 1:
-            mostrar_mensaje(menu)
-        elif option == 2:
-            mostrar_mensaje(promociones)
-        elif option == 3:
-            for dia, hora in horario.items():
-                print(f"{dia} - {hora}")
-"""
-
-
 
